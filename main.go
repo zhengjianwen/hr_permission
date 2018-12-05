@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "github.com/zhengjianwen/hr_permission/hr_permission/routers"
+	_ "github.com/zhengjianwen/hr_permission/routers"
 	"github.com/astaxie/beego"
 )
 

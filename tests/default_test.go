@@ -6,7 +6,7 @@ import (
 	"testing"
 	"runtime"
 	"path/filepath"
-	_ "github.com/zhengjianwen/hr_permission/hr_permission/routers"
+	_ "github.com/zhengjianwen/hr_permission/routers"
 
 	"github.com/astaxie/beego"
 	. "github.com/smartystreets/goconvey/convey"
